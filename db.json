@@ -1,0 +1,14 @@
+{
+    "students":[
+        {
+            "id": 1,
+            "firstName":"Marc John Paul",
+            "middleName": "Hayag",
+            "lastName": "Bandojo",
+            "suffix": "",
+            "studentNumber": "2020263281"
+        }
+    ]
+        
+    
+}
